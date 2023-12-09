@@ -8,4 +8,5 @@ int main()
 	printf("pig\n");
 	printf("Excellent Work\n");
 	printf("good\n");
+	printf("ok good night\n");
 }
